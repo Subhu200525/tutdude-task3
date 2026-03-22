@@ -30,3 +30,7 @@ li a{
     color: white;
      background-color: blue;
 }
+
+a:hover{
+  background-color: yellow;
+}
