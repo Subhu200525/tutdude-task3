@@ -8,7 +8,10 @@ body{
 }
 /* step-6 */
 #bglime{
-    background-color: limegreen;
+    background-color: lime;
+}
+#bglime p{
+    color: red;
 }
 
 p{
